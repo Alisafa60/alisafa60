@@ -1,10 +1,11 @@
 ### Hi there 👋, my name is Ali
-Having a background in physics and nanotechnology, I'm currently immersing in the world of full-stack web development. My analytical mindset from my scientific background merges seamlessly with the challenges of coding, or at least I hope!
+Passionate about coding and what requires and improve my problem solving skills. I find joy in interacting with databases and optimizing performance – tasks that not only challenge my problem-solving skills but also bring a sense of fulfillment.
+My appreciation for intuitive and user-friendly interfaces, along with a keen eye for beautiful design, motivates me to strive for creating the most user-friendly interfaces possible.
 
-Skills:  JS / HTML / CSS/ Research
+Skills:  Nodejs, Flutter, Prisma, Laravel, React
 
-- 🌱 I’m currently learning to become a full-stack web developer 
-- ⚡ Fun fact: My hands, toughened from lifting heavy weights,  are anything but delicate, often unintentionally disrupting the smoothness of the colorful fabrics I adore. 
+- 🌱 Full stack web and mobile developer
+- ⚡ Fun fact: My hands, toughened from lifting heavy weights, are anything but delicate, often unintentionally disrupting the smoothness of the colorful fabrics I adore. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alisafa1/)  
