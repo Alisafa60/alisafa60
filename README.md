@@ -2,7 +2,7 @@
 ![I am Junior Developer](https://i.postimg.cc/k4JgTGsw-/1.png)
 ### Junior Web and Mobile Developer
 
-Passionate about coding and what requires and improve my problem solving skills. I find joy in interacting with databases and optimizing performance, with an appreciation for intuitive and user-friendly interfaces, and a keen eye for beautiful design.
+Passionate about coding and what requires and improve my problem solving skills. I find joy in interacting with databases and optimizing performance, coupled with an appreciation for intuitive and user-friendly interfaces, and a keen eye for beautiful design.
 
 #### Skills: Node.js / Flutter / React / Prisma / Laravel
 
