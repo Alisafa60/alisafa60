@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Ali
 #### I am Junior Developer
-![I am Junior Developer](https://postimg.cc/LgYFFzJY)
+![I am Junior Developer]
+(https://postimg.cc/LgYFFzJY)
 
 Passionate about coding and what requires and improve my problem solving skills. I find joy in interacting with databases and optimizing performance, with an appreciation for intuitive and user-friendly interfaces, and a keen eye for beautiful design.
 
@@ -10,7 +11,5 @@ Skills: Node.js / Flutter / React / Prisma / Laravel
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alisafa1/)  
-
-
 
 
