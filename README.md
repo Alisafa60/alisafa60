@@ -5,7 +5,7 @@
 Passionate about coding and what requires and improve my problem solving skills. I find joy in interacting with databases and optimizing performance, coupled with a passion for intuitive, user-friendly interfaces and a keen eye for beautiful design.
 
 ## Skills and Experiences: 
-- Backend: Node.js, Prisma, Laravel
+- Backend: ASP.NET Core, Node.js, Prisma
 - Frontend: 📱 Flutter, ⚛️ React
 - DBMS: PostgreSQL, MySQL, MongoDB
 
