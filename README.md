@@ -8,6 +8,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alisafa1/)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisafa60&theme=tokyonight)[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alisafa60&count_private=true&theme=tokyonight&showicons=true)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisafa60&theme=tokyonight)[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Alisafa60&count_private=true&theme=tokyonight&showicons=true)]() 
 
 
