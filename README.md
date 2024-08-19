@@ -3,7 +3,7 @@
 ### Junior Web and Mobile Developer
 ## Skills and Experiences: 
 - Backend: ASP.NET Core, Node.js
-- Frontend: 📱 Flutter, ⚛️ React
+- Frontend: 📱 Flutter, ⚛️ React Typescript
 - DBMS: PostgreSQL, MySQL, MongoDB
 
 
