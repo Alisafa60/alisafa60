@@ -9,8 +9,6 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisafa60&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisafa60&count_private=true&layout=compact)
-
 
 
 
