@@ -1,6 +1,6 @@
 # Peace 👋
 
-I'm a full-stack web developer with experience across backend and frontend technologies. My primary tech stack includes **Kotlin**, **TypeScript**, and **C#**, working with frameworks like **.NET Core**, **React**, and **KTor**. Currently exploring **Spring Boot** for backend development and **Kotlin Multiplatform Mobile (KMM)** for cross-platform mobile apps, and **Tauri** for desktop apps. My public repos are outdated and my work currently is primarily on private repos.  
+I'm a full-stack web developer with experience across backend and frontend technologies. My primary tech stack includes **Kotlin**, **TypeScript**, and **C#**, working with frameworks like **.NET Core**, **React**, and **KTor**. Currently exploring **Spring Boot** for backend development and **Kotlin Multiplatform Mobile (KMM)** for cross-platform mobile apps, and **Tauri** for desktop apps
 
 -📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
@@ -8,16 +8,8 @@ I'm a full-stack web developer with experience across backend and frontend techn
 
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
 > 🏆 233 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
+ >
 **I'm a Night 🦉** 
 
 ```text
@@ -61,23 +53,6 @@ khalil                   38 hrs 10 mins      ███████████�
 💻 Operating System: 
 Windows                  38 hrs 10 mins      █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-PHP                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Alisafa60/Alisafa60/main/assets/bar_graph.png)
-
 
  Last Updated on 16/01/2026 19:10:05 UTC
 <!--END_SECTION:waka-->
