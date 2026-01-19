@@ -14,12 +14,7 @@ I'm a full-stack web developer with experience across backend and frontend techn
  > 
 > 🏆 236 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 4 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
+
 **I'm a Night 🦉** 
 
 ```text
@@ -64,21 +59,6 @@ khalil                   41 hrs 22 mins      ███████████�
 Windows                  41 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-PHP                      4 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Alisafa60/Alisafa60/main/assets/bar_graph.png)
 
 
  Last Updated on 19/01/2026 01:14:58 UTC
