@@ -1,6 +1,17 @@
 # Peace 👋
 
-I'm a full-stack web developer with experience across backend and frontend technologies. My primary tech stack includes **Kotlin**, **TypeScript**, and **C#**, working with frameworks like **.NET Core**, **React**, and **KTor**. Currently exploring **Spring Boot** for backend development and **Kotlin Multiplatform Mobile (KMM)** for cross-platform mobile apps, and **Tauri** for desktop apps
+## Building production-grade software end to end ⚙️
+
+I’m a business owner and full-stack web developer building production-grade products end to end — from backend architecture to polished frontend experiences.
+
+My core tech stack includes Kotlin, TypeScript, and C#, working with .NET Core, KTor, and React.
+I’m currently expanding into Spring Boot, Kotlin Multiplatform Mobile (KMM) for cross-platform apps, and Tauri for lightweight desktop applications.
+
+Owning and running a business shapes how I write code:
+
+- I care about maintainability, performance, and scalability
+- I optimize for real users, not just clean abstractions
+- I think in terms of products, not just features
 
 -📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
