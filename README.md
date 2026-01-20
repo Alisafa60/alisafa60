@@ -2,7 +2,7 @@
 
 ## Building production-grade software end to end ⚙️
 
-I’m a business owner and full-stack web developer building production-grade products end to end — from backend architecture to polished frontend experiences.
+I’m a business owner and full-stack web developer building production-grade products end to end, from backend architecture to polished frontend experiences.
 
 My core tech stack includes Kotlin, TypeScript, and C#, working with .NET Core, KTor, and React.
 I’m currently expanding into Spring Boot, Kotlin Multiplatform Mobile (KMM) for cross-platform apps, and Tauri for lightweight desktop applications.
