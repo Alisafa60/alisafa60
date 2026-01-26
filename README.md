@@ -67,12 +67,5 @@ khalil                   31 hrs 36 mins      ███████████�
 Windows                  31 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Alisafa60/Alisafa60/main/assets/bar_graph.png)
-
-
  Last Updated on 26/01/2026 01:17:00 UTC
 <!--END_SECTION:waka-->
