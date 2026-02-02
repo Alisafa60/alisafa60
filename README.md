@@ -15,41 +15,11 @@ Owning and running a business shapes how I write code:
 
 -📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2050%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 **🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
 > 🏆 503 Contributions in the Year 2026
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-🌆 Daytime                1193 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
-🌃 Evening                1361 commits        ██████████░░░░░░░░░░░░░░░   41.17 % 
-🌙 Night                  623 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   573 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Tuesday                  710 commits         █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-Wednesday                528 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Thursday                 545 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Friday                   270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Saturday                 269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Sunday                   411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-```
-
-
+ >
+> 
 📊 **This Week I Spent My Time On** 
 
 ```text
