@@ -25,8 +25,6 @@ Owning and running a business shapes how I write code:
  > 
 > 🏆 503 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 5 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
@@ -76,22 +74,6 @@ dotfiles                 7 mins              ░░░░░░░░░░░�
 💻 Operating System: 
 Windows                  26 hrs 18 mins      █████████████████████████   100.00 % 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Alisafa60/Alisafa60/main/assets/bar_graph.png)
 
 
  Last Updated on 02/02/2026 12:01:24 UTC
