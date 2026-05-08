@@ -15,7 +15,6 @@ Owning and running a business shapes how I write code:
 
 -📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%203%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
