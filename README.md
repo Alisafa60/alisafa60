@@ -8,8 +8,6 @@ My latest project is [**Shipping Ops Platform**](https://github.com/Alisafa60/sh
 
 It is available for licensing, customization, or private deployment.
 
-For inquiries: `alisafa6100 [at] gmail [dot] com`
-
 ---
 
 ## About Me
