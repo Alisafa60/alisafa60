@@ -21,7 +21,7 @@ Owning and running a business shapes how I write code:
 - I care about maintainability, performance, and scalability
 - I optimize for real users, not just clean abstractions
 - I think in terms of products, not just features
-- 
+  
 -📊 **Weekly Development Breakdown**
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
