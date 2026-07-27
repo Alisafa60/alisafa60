@@ -27,21 +27,21 @@ Owning and running a business shapes how I write code:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                582 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-🌆 Daytime                12245 commits       ██████████░░░░░░░░░░░░░░░   40.05 % 
-🌃 Evening                12730 commits       ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌙 Night                  5017 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌞 Morning                642 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌆 Daytime                13863 commits       ██████████░░░░░░░░░░░░░░░   40.05 % 
+🌃 Evening                14414 commits       ██████████░░░░░░░░░░░░░░░   41.64 % 
+🌙 Night                  5696 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5141 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Tuesday                  5688 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Wednesday                4806 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Thursday                 4454 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Friday                   3818 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Saturday                 2917 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Sunday                   3750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Monday                   5817 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Tuesday                  6316 commits        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Wednesday                5438 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Thursday                 5057 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Friday                   4364 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Saturday                 3347 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Sunday                   4276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 ```
 
 
@@ -49,27 +49,22 @@ Sunday                   3750 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      8 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.00 % 
-TypeScript               7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.13 % 
-C#                       5 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+CSS                      7 hrs 29 mins       █████████████░░░░░░░░░░░░   52.64 % 
+TypeScript               6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   42.71 % 
+C#                       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Opencode Cli             12 hrs 29 mins      ███████████████░░░░░░░░░░   58.81 % 
-Neovim                   6 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-VS Code                  2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Opencode Cli             7 hrs 49 mins       ██████████████░░░░░░░░░░░   54.99 % 
+Neovim                   6 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
 
 🐱‍💻 Projects: 
-luciana                  17 hrs 41 mins      █████████████████████░░░░   83.29 % 
-snuggly-stack            1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-sacbyfatima              1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-luce-ecommerce-showcase  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+luciana                  14 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      21 hrs 14 mins      █████████████████████████   100.00 % 
+WSL                      14 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/07/2026 03:31:15 UTC
+ Last Updated on 27/07/2026 02:14:41 UTC
 <!--END_SECTION:waka-->
