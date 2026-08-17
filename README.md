@@ -64,30 +64,4 @@ luciana                  9 hrs 45 mins       ███████████�
 WSL                      9 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 9 hrs 39 mins (99.01%)
-
-✍️ 6,183 lines written by AI, 18 lines written by hand (99.71% AI-written)
-
-🔤 3,873,709 Input Tokens, 229,100 Output Tokens
-
-💵 $20.38 Estimated AI Cost This Week
-
-🧠 36 AI Sessions, 148 AI Prompts
-
-GPT                      6,748 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📝 Concise Prompter — average 333 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
-```
-
-
- Last Updated on 17/08/2026 00:53:12 UTC
 <!--END_SECTION:waka-->
