@@ -28,17 +28,17 @@ Owning and running a business shapes how I write code:
 
 ```text
 🌞 Morning                645 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-🌆 Daytime                13897 commits       ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌃 Evening                14466 commits       ██████████░░░░░░░░░░░░░░░   41.63 % 
-🌙 Night                  5738 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌆 Daytime                13900 commits       ██████████░░░░░░░░░░░░░░░   40.00 % 
+🌃 Evening                14469 commits       ██████████░░░░░░░░░░░░░░░   41.63 % 
+🌙 Night                  5739 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   5843 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Monday                   5845 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
 Tuesday                  6356 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Wednesday                5438 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Thursday                 5062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Wednesday                5442 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Thursday                 5063 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
 Friday                   4368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Saturday                 3367 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 Sunday                   4312 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
@@ -49,22 +49,45 @@ Sunday                   4312 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      4 hrs 25 mins       █████████████░░░░░░░░░░░░   50.17 % 
-TypeScript               2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.04 % 
-C#                       1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TypeScript               4 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.38 % 
+C#                       3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   31.76 % 
+CSS                      1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
 
 🔥 Editors: 
-Opencode Cli             5 hrs 42 mins       ████████████████░░░░░░░░░   64.84 % 
-Neovim                   3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.16 % 
+Opencode Cli             6 hrs 3 mins        ████████████████░░░░░░░░░   62.15 % 
+Neovim                   3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
 
 🐱‍💻 Projects: 
-luciana                  8 hrs 48 mins       █████████████████████████   100.00 % 
+luciana                  9 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      8 hrs 48 mins       █████████████████████████   100.00 % 
+WSL                      9 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
- Last Updated on 10/08/2026 01:12:53 UTC
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 39 mins (99.01%)
+
+✍️ 6,183 lines written by AI, 18 lines written by hand (99.71% AI-written)
+
+🔤 3,873,709 Input Tokens, 229,100 Output Tokens
+
+💵 $20.38 Estimated AI Cost This Week
+
+🧠 36 AI Sessions, 148 AI Prompts
+
+GPT                      6,748 lines         █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.71% of written lines came from AI
+📝 Concise Prompter — average 333 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
+```
+
+
+ Last Updated on 17/08/2026 00:53:12 UTC
 <!--END_SECTION:waka-->
