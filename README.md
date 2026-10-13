@@ -4,7 +4,7 @@
 
 I’m a business owner and full-stack web developer building practical web applications from backend architecture to polished frontend experiences.
 
-My latest project is [**Shipping Ops Platform**](https://github.com/Alisafa60/shipping-ops-platform), a self-hosted shipping company operations system for shipment tracking, stock workflows, invoicing, payments, role-based access control, and configurable Excel imports.
+My latest project is shipping ops sakabridge[dot]com, a self-hosted shipping company operations system for shipment tracking, stock workflows, invoicing, payments, role-based access control, and configurable Excel imports.
 
 It is available for licensing, customization, or private deployment.
 
